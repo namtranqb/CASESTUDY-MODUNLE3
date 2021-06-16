@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="WEB NAM.S:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>WEB NAM.S</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="WEB-NAM-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="WEB NAM.S:war exploded" />
+    </root>
+  </artifact>
+</component>
